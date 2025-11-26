@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  P  {
+  <P>  {
   color:red;
   }
   .highlight {
