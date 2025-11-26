@@ -4,10 +4,11 @@
 </head>
 </body>
 
-<h1> this is google.com</h1>
-<p> this is yash tare.</p>
-<p> sailee degree college, fybsc-it</p>
-<p>informmation technology<p>
+<h1> This is google.com</h1>
+<h1>Follow Instagram page for more - yash_tare0933
+<p> This is Yash Tare.</p>
+<p> sailee degree college,FYBsc-it</p>
+<p>Informmation Technology<p>
 <p>20<p>
 </body>
 </html>
