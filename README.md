@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-<title> page title </title>
+</title>
 </head>
 </body>
 
