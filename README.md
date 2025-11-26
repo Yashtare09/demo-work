@@ -3,13 +3,13 @@
 <head>
   
   <h1> This is recent code </h1>
-<h1>Follow Instagram page for more - yash_tare0933<p>
+<h1>Follow Instagram page for more - yash_tare0933<h1>
 <p> This is Yash Tare.</p>
 <p> Sailee Degree College,FYBsc-it</p>
 <p>Informmation Technology<p>
 <p>20<p>
-<p> GEETA TARE <p>
-<p> HEMANT TARE <p>
-<p>KINJAL manddd badakkkk<p>
+<p>Favourite Artist<p>
+<p>The Weeknd<p>
+<p> LOST IN THE FIRE<p>
 </body>
 </html>
