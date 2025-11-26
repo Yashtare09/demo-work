@@ -5,10 +5,11 @@
 </body>
 
 <h1> This is google.com</h1>
-<h1>Follow Instagram page for more - yash_tare0933
+<h1>Follow Instagram page for more - yash_tare0933<p>
 <p> This is Yash Tare.</p>
-<p> sailee degree college,FYBsc-it</p>
+<p> Sailee Degree College,FYBsc-it</p>
 <p>Informmation Technology<p>
 <p>20<p>
+
 </body>
 </html>
